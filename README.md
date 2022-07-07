@@ -1,4 +1,4 @@
-# qtim2
+# QTIM studio
 
 ## Build Setup
 

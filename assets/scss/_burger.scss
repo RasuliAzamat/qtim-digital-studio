@@ -1,0 +1,52 @@
+.burger {
+  width: 40px;
+  height: 40px;
+  border: 1.6px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  z-index: 777;
+  background: transparent;
+  flex-shrink: 0;
+  display: none;
+  flex-direction: column;
+  @media screen and (max-width: 768px) {
+    display: flex;
+  }
+  &--profile {
+    @media screen and (max-width: 992px){
+      display: flex;
+    };
+  }
+  span {
+    transition: transform .3s ease;
+    display: block;
+    width: 16px;
+    height: 1px;
+    background-color: #FFFFFF;
+    margin: 2px 0;
+  }
+  &.active {
+    span {
+      margin: 0;
+      &:first-child {
+        position: relative;
+        top: 1px;
+        transform: rotate(45deg);
+      }
+      &:last-child {
+        transform: rotate(-45deg);
+
+      }
+    }
+  }
+  &--dark {
+    border-color: rgba(#101010, .2);
+    span {
+      background-color: #101010;
+    }
+  }
+}

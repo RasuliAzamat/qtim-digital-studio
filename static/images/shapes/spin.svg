@@ -1,0 +1,18 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.5" cx="79.9999" cy="147.538" r="11.9623" stroke="#F3F3F3"/>
+<circle opacity="0.7" cx="147.538" cy="79.9999" r="11.9623" stroke="#F3F3F3"/>
+<circle opacity="0.5" cx="105.729" cy="142.714" r="11.9623" stroke="#F3F3F3"/>
+<circle opacity="0.6" cx="128.241" cy="127.437" r="11.9623" stroke="#F3F3F3"/>
+<circle opacity="0.6" cx="142.714" cy="105.728" r="11.9623" stroke="#F3F3F3"/>
+<circle opacity="0.3" r="11.9623" transform="matrix(-1 0 0 1 12.4622 79.9999)" stroke="#F3F3F3"/>
+<circle opacity="0.4" r="11.9623" transform="matrix(-1 0 0 1 54.2713 142.714)" stroke="#F3F3F3"/>
+<circle opacity="0.4" r="11.9623" transform="matrix(-1 0 0 1 31.7589 127.437)" stroke="#F3F3F3"/>
+<circle opacity="0.3" r="11.9623" transform="matrix(-1 0 0 1 17.2865 105.728)" stroke="#F3F3F3"/>
+<circle opacity="0.8" cx="80.0001" cy="12.4625" r="11.9623" transform="rotate(-180 80.0001 12.4625)" stroke="#F3F3F3"/>
+<circle opacity="0.1" cx="54.2713" cy="17.2867" r="11.9623" transform="rotate(-180 54.2713 17.2867)" stroke="#F3F3F3"/>
+<circle opacity="0.1" cx="31.7589" cy="32.5631" r="11.9623" transform="rotate(-180 31.7589 32.5631)" stroke="#F3F3F3"/>
+<circle opacity="0.2" cx="17.2865" cy="54.2716" r="11.9623" transform="rotate(-180 17.2865 54.2716)" stroke="#F3F3F3"/>
+<circle opacity="0.8" r="11.9623" transform="matrix(1 0 0 -1 105.729 17.2867)" stroke="#F3F3F3"/>
+<circle opacity="0.8" r="11.9623" transform="matrix(1 0 0 -1 128.241 32.5631)" stroke="#F3F3F3"/>
+<circle opacity="0.7" r="11.9623" transform="matrix(1 0 0 -1 142.714 54.2716)" stroke="#F3F3F3"/>
+</svg>
